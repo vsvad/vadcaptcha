@@ -1,2 +1,2 @@
 # vadcaptcha
-Captcha
+Docs: `python vadcaptcha.py help`
