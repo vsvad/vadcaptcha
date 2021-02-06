@@ -2,6 +2,7 @@ import sys
 import audio_b
 import os
 import img_b
+from random import randint
 from colorama import *
 if sys.platform.startswith('nt'):
 	init(convert=True)
